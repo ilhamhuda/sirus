@@ -1,6 +1,6 @@
 # webapp
 
-> Manggu Dashboard
+> Sirus CMS for Purchase History of Medicine Transaction
 
 ## Build Setup
 
